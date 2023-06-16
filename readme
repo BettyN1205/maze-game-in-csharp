@@ -1,6 +1,1 @@
-You are tasked with creating a text adventure game in C# that involves the player exploring a dungeon. The game should be console-based and should not involve object-oriented programming.
-The game should start with the player in a dark room. The player should be able to move in four directions: north, south, east, or west. The player should be able to enter these commands using the keyboard.
-As the player moves through the dungeon, random events should occur. For example, the player might find a treasure or encounter a monster. The probability of these events occurring should be randomized.
-If the player encounters a monster, they should have the option to fight or flee. If they choose to fight, they should win automatically. If they choose to flee, they should return to the starting room.
-The game should end when the player reaches the end of the dungeon, which should be a fixed location on the map.
-Your implementation should make use of parsing user input, conditions, and randomization.
+a text adventure game in C# that involves the player exploring a dungeon. 
